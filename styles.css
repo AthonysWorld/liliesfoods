@@ -1,0 +1,89 @@
+body{
+    background-color: #00302E;
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0%;
+}
+.navbar{
+    background-color:#00302E;
+    margin: 5px;
+}
+.nav-link{
+    color: #FBDDBB;
+}
+.logo{
+ height: 50px;
+}
+section{
+    margin-bottom: 120px;
+}
+h1{
+    font-size: 3.5rem;
+}
+.container-fluid{
+    padding-left: 20px;
+    margin-top: 100px;
+}
+.landing-pageimg-1{
+    width: 70%;
+}
+.img-2{
+    height: 250px;
+    width: 250px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.cont-1{
+    text-align: left;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+.btn{
+    background-color: #FBDDBB;
+}
+.btnn-2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input{
+    border-radius: 5px;
+    height: 40px;
+    padding: 0%3px;
+}
+.get-notified-container-one{
+    text-align: left;
+}
+.footer{
+    background-color: black;
+    color: #fff;
+    padding-top: 5px;
+}
+#foot{
+ text-align: left;   
+ padding-bottom: 10px;
+ margin: 0%;
+ background-color: black;
+}
+
+.footer-container{
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0%;   
+}
+a{
+    text-decoration: none;
+}
+.icons{
+    color: #FBDDBB;
+    margin-right: 10px;
+}
+@media (max-width:900px) {
+    .container{
+margin-top: 10px;
+margin-bottom: 10px;
+    }
+}
