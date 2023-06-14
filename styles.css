@@ -9,6 +9,7 @@ body{
 .navbar{
     background-color:#00302E;
     margin: 5px;
+    padding: 10px;
 }
 .nav-link{
     color: #FBDDBB;
@@ -43,9 +44,23 @@ h1{
 .btn{
     background-color: #FBDDBB;
 }
+.btn-two{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: #FBDDBB;
+}
+.btn-two:hover{
+    background-color: #FBDDBB;
+    color: black;
+}
 .btnn-2{
     margin-top: 10px;
     margin-bottom: 10px;
+}
+.btn-footer{
+    margin-bottom: 10px;
+    color: #00302E;
 }
 input{
     border-radius: 5px;
