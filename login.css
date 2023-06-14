@@ -51,7 +51,7 @@ input{
     padding: 3px;
     margin-bottom: 10px;
     margin-top: 10px;
-    #00302E
+    color: #00302E;
 }
 .btn{
     background-color: #FBDDBB;
@@ -67,7 +67,7 @@ input{
         position: absolute;
         z-index: 1;
         top: 200px;
-        left: 80px;
+        left: 20px;
         color: #FBDDBB;
         padding: 10px;
     }
