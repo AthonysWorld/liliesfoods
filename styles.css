@@ -1,6 +1,6 @@
 body{
     background-color: #00302E;
-    color: #fff;
+    color: #FBDDBB;
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -72,7 +72,7 @@ input{
 }
 .footer{
     background-color: black;
-    color: #fff;
+    color: #FBDDBB;
     padding-top: 5px;
 }
 #foot{
@@ -83,7 +83,7 @@ input{
 }
 
 .footer-container{
-    color: #fff;
+    color: #FBDDBB;
     text-align: center;
     justify-content: center;
     align-items: center;
