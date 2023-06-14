@@ -1,10 +1,13 @@
 body{
     background-color: #00302E;
-    color: #FBDDBB;
+    color: #fff;
     text-align: center;
     justify-content: center;
     align-items: center;
     margin: 0%;
+}
+span{
+    color: #fff;
 }
 .navbar{
     background-color:#00302E;
@@ -19,6 +22,9 @@ body{
 }
 section{
     margin-bottom: 120px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #FBDDBB;
 }
 h1{
     font-size: 3.5rem;
@@ -65,7 +71,9 @@ h1{
 input{
     border-radius: 5px;
     height: 40px;
-    padding: 0%3px;
+    padding: 3px;
+    margin-bottom: 10px;
+    
 }
 .get-notified-container-one{
     text-align: left;
@@ -102,3 +110,5 @@ margin-top: 10px;
 margin-bottom: 10px;
     }
 }
+
+
