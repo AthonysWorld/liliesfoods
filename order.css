@@ -6,7 +6,15 @@
     margin-left: 10px;
 }
 
-
+.order{
+    background-color: #00302E;
+    border-radius: 20px;
+    height: 300px;
+    width: 300px;
+    color: #FBDDBB;
+    padding: 10px;
+    border: solid;
+}
 @media (max-width:900px) {
     .order-image{
         width: 90px;
