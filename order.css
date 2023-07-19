@@ -1,0 +1,15 @@
+.order{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.order-btn{
+    margin-left: 10px;
+}
+
+
+@media (max-width:900px) {
+    .order-image{
+        width: 90px;
+        height: 90px;
+    }
+}
